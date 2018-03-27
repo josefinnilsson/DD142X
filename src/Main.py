@@ -12,9 +12,7 @@ W = W(0,K,0.1)
 Z = IBP(N,K)
 Y = np.empty(shape=(N,N))
 print "first Y"
-ax=plt.imshow(Y,'gray',interpolation='none')
-plt.tight_layout()    
-plt.show() 
+
 print Y;
 x = 0;
 for i in range(0,N):
