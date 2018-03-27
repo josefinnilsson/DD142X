@@ -1,3 +1,5 @@
+# Code written by Helena Alinder & Josefin Nilsson
+
 import numpy as np
 
 def Sigmoid(x):

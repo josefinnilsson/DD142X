@@ -1,3 +1,5 @@
+# Code written by Helena Alinder & Josefin Nilsson
+
 import matplotlib.pyplot as plt
 import numpy as np
 from IBP import IBP
